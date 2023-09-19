@@ -1,0 +1,978 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.header-area.transparent-header {
+		padding: 20px 0;
+	}
+	.main-menu {
+		margin-left: 70px;
+	}
+	.main-menu ul li {
+		display: inline-block;
+		margin-left: 25px;
+		position: relative;
+	}
+	.slider-area{
+		padding: 150px 0 130px;
+	}
+
+	.about-text-wrapper {
+		padding: 0;
+		padding-left: 15px;
+	}
+
+	.single-service{
+		padding: 40px 27px;
+	}
+	.tagline-text h2 {
+		font-size: 30px;
+	}
+	.doctor-content {
+		transform: translateY(180%);
+	}
+	.doctor-wrapper:hover .doctor-content {
+		transform: translateY(137%);
+	}
+	.appointment-img img {
+		width: 100%;
+		height: 800px;
+	}
+	.form-thumb {
+		top: 35px;
+	}
+
+	.testimonial-area .testimonial-content-area {
+		padding: 130px 30px 150px;
+	}
+	
+	.testimonial-area .testimonial-author {
+		float: none;
+	}
+	
+	.latest-blog-content {
+		padding: 25px;
+	}
+	.latest-blog-content {
+		transform: translateY(100%);
+	}
+
+	.latest-blog-wrapper:hover .latest-blog-content{
+		transform: translateY(70%);
+	}
+
+	.top-contact:nth-child(2)::before {
+		background: none;
+	}
+	
+	.slider-two-area .slider-height {
+		height: 720px;
+	}
+	.slider-two-area .slider-content {
+		padding: 60px;
+	}
+
+	.slider-content h2 {
+	font-size: 60px;
+	}
+
+	.arrow-style.slick-slider button.slick-next {
+		top: 42%;
+	}
+
+	.about-two .about-text-wrapper {
+		margin-top: 60px;
+		margin-left: 0;
+	}
+	
+	.section-title h2 {
+		font-size: 36px;
+		line-height: 50px;
+	}
+
+	.testimonial-two-active.arrow-style.slick-slider button {
+		left: 6%;
+
+	}
+
+	.testimonial-two-active.arrow-style.slick-slider button.slick-next {
+		left: 18%;
+	}
+
+	.latest-blog-social ul li {
+		display: inline-block;
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.latest-blog-social ul li:last-child{
+		margin-bottom: 0;
+	}
+
+	.slider-three-area .slider-content h2 {
+		font-size: 60px;
+	}
+
+	.gallery-content h3 {
+		font-size: 22px;
+	}
+
+	.testimunial-three-box {
+		padding: 40px 30px;
+	}
+
+	.testi-author-des h4 {
+		font-size: 17px;
+	}
+
+	.cat-box-wrapper h3 {
+		font-size: 24px;
+	}
+
+	.about-three-thumb {
+		margin-top: 60px;
+	}
+
+	.about-text-wrapper.about-three-wrapper {
+		padding-left: 0;
+	}
+
+	.about-three-btn {
+		right: 300px;
+	}
+
+	.small-img {
+		top: 290px;
+		width: 280px;
+	}
+
+	.video-two-content {
+		padding: 0;
+		padding-left: 0;
+	}
+
+	.testimonial-nav button {
+		left: -250px;
+	}
+
+	.testimonial-nav button.slick-next {
+		left: 500px;
+	}
+
+	.slider-three-area .arrow-style.slick-slider button {
+		left: 70px;
+	}
+
+	.slider-three-area .arrow-style.slick-slider button.slick-next {
+		right: 70px;
+	}
+
+	.top-header-four.header-five .top-header-wrapper {
+		padding-left: 0;
+	}
+
+	.feature-two-area .feature-wrapper {
+		padding: 50px;
+	}
+	
+	.feature-wrapper.feature-new-class {
+		padding: 60px;
+	}
+
+	.product-nav-button.text-center button {
+		margin: 0 20px;
+	}
+
+	.post-athor-inner {
+		padding: 30px;
+	}
+
+	.post-share{
+		float: none;
+		margin-top: 15px;
+	}
+	
+	.post-share ul li {
+		margin-left: 0;
+	}
+
+	.doctor-content-wrapper {
+		padding: 30px;
+	}
+	.doctor-details-btn {
+		float: none;
+		margin: 15px 0;
+	}
+
+	.pricing-wrapper {
+		padding: 30px;
+	}
+
+	.product-details-nav .nav-link {
+		margin-right: 3px;
+	}
+	.product-details-nav .nav-link img{
+		width: 95%;
+	}
+
+	.about-area.about-two.about-page-area {
+		padding-top: 0;
+	}
+
+	.about-two .about-text-wrapper.about-page {
+		padding: 0;
+		
+	}
+
+	
+
+
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	.slider-area::before {
+		display: none;
+	}
+	
+	.header-area.transparent-header {
+		padding: 30px 0;
+	}
+
+	.search-form {
+	margin-top: 15px;
+	}
+
+	.slider-thumb {
+		margin-top: 62px;
+		margin-bottom: -30px;
+	}
+
+	.slider-btn {
+		margin-bottom: 60px;
+	}
+
+	.section-title h2 {
+		font-size: 40px;
+		line-height: 48px;
+	}
+
+	.why-choose-content h3 {
+		font-size: 20px;
+	}
+	.why-choose-wrapper {
+		margin-top: 80px;
+	}
+	
+	.single-service{
+		padding: 40px;
+	}
+	.tagline-text h2 {
+		font-size: 25px;
+	}
+	.doctor-content {
+		transform: translateY(307%);
+	}
+	.doctor-wrapper:hover .doctor-content {
+		transform: translateY(260%);
+	}
+	.testimunial-content-area {
+		margin-bottom: 40px;
+	}
+	.testimonial-active.owl-carousel .owl-dots {
+		bottom: -60px;
+	}
+
+	.help-wrapper {
+		padding: 0;
+	}
+	.help-thumb {
+		text-align: center;
+		margin-top: 60px;
+	}
+	.latest-blog-content {
+		transform: translateY(91%);
+	}
+	.latest-blog-wrapper:hover .latest-blog-content{
+		transform: translateY(60%);
+	}
+
+	.header-area.header-two {
+		padding: 25px 0;
+	}
+
+	.slider-two-area .slider-height {
+		height: 700px;
+		padding: 0;
+	}
+
+	.slider-two-area .slider-content {
+		padding: 50px;
+	}
+
+	.slider-content h2 {
+		font-size: 60px;
+	}
+
+	.arrow-style.slick-slider button.slick-next {
+		top: 42%;
+	}
+
+	.about-two .about-text-wrapper {
+		margin-left: 0;
+		margin-top: 60px;
+	}
+
+	.cat-btn {
+		margin-top: 30px;
+	}
+	.video-primay-bg::before {
+		width: 100%;
+	}
+
+	.testimunial-two-content {
+		padding: 30px;
+	}
+
+	.arrow-style.slick-slider button {
+		right: 35px;
+	}
+
+	.testimonial-two-active.arrow-style.slick-slider button {
+		left: -3%;
+	}
+
+	.slider-three-area .slider-content h2 {
+		font-size: 75px;
+	}
+
+	.cat-three .cat-three-thumb {
+		margin-top: 60px;
+	}
+
+	.cat-three .section-title {
+		padding-top: 30px;
+		padding-bottom: 60px;
+	}
+
+	.about-three-btn {
+		right: 300px;
+		top: 100%;
+	}
+
+	.about-text-wrapper.about-three-wrapper {
+		padding-left: 0;
+		margin-top: 60px;
+	}
+	
+	.about-three-thumb {
+		padding-left: 60px;
+	}
+
+	.testimunial-three-box {
+		padding: 40px 30px;
+	}
+
+	.testi-author-des h4 {
+		font-size: 20px;
+	}
+
+	.top-header-four ul li {
+		font-size: 15px;
+	}
+
+	.top-header-four ul li:last-child {
+		margin-left: 0;
+	}
+
+	.about-three-thumb {
+		padding-left: 0;
+		margin-top: 0px;
+	}
+
+	.about-three-btn {
+		right: 55px;
+		top: 50%;
+	}
+
+	.service-area.service-four {
+		padding-bottom: 1px;
+	}
+
+	.video-two-content {
+		padding: 0;
+		padding-left: 0;
+		margin-top: 60px;
+	}
+
+	.slider-three-area .arrow-style.slick-slider button {
+		left: 60px;
+	}
+
+	.slider-three-area .arrow-style.slick-slider button.slick-next {
+		right: 60px;
+	}
+
+	.about-four .about-text-wrapper.about-three-wrapper {
+		margin-top: 0;
+	}
+
+	.about-four .about-three-thumb {
+		margin-top: 60px;
+	}
+
+	.slider-height-three .slider-content h2 {
+		font-size: 60px;
+	}
+	.slider-five-area .arrow-style.slick-slider button {
+		top: 45%;
+	}
+
+	.product-nav-button.text-center button {
+		margin: 0 15px;
+	}
+
+	.feature-medicine-content {
+		padding: 0;
+		margin-top: 0;
+	}
+
+	.feature-medicine-thumb {
+		margin-top: 60px;
+	}
+	.feature-img-two {
+		right: -250px;
+		top: 22%;
+	}
+
+	.faq-content {
+		padding-left: 0;
+		margin-top: 60px;
+	}
+
+	.blog-post-wrapper {
+		padding-right: 0;
+	}
+
+	.sidebar-widget-wrapper {
+		margin-top: 60px;
+	}
+
+	.post-share{
+		float: none;
+		margin-top: 15px;
+	}
+	
+	.post-share ul li {
+		margin-left: 0;
+	}
+
+	.skill-wrapper {
+		padding-left: 0;
+		margin-top: 200px;
+	}
+
+	.doctor-content-wrapper::before {
+		width: 100%;
+	}
+
+	.doctor-content-wrapper {
+		padding: 30px;
+	}
+
+	.doctor-details-btn {
+		float: none;
+		margin: 15px 0;
+	}
+
+	.gellery-page button {
+		padding: 15px 20px;
+	}
+
+	.faq-sidebar {
+		padding-left: 0;
+		margin-top: 60px;
+	}
+
+	.faq-search h3 {
+		font-size: 25px;
+	}
+
+	.product-summary {
+		padding-right: 0;
+		margin-top: 60px;
+	}
+
+	.about-area.about-two.about-page-area {
+		padding-top: 0;
+	}
+	.about-two .about-text-wrapper.about-page {
+		padding: 0;
+		
+	}
+
+	.service-details-box {
+		padding-left: 0;
+	}
+
+	.shop-sidebar {
+		margin-top: 60px;
+	}
+
+	
+}
+
+/* Extra small Device. */@media (max-width: 767px) {
+	.header-area.transparent-header{
+	padding: 30px 0;
+	}
+	.slider-area::before {
+		display: none;
+	}
+	.slider-area{
+		padding: 120px 0;
+	}
+	.slider-content h2 {
+		font-size: 55px;	
+	}
+	.slider-content p {
+		margin-top: 25px;
+	}
+	.slider-btn {
+		margin-bottom: 60px;
+	}
+	.slider-content::before {
+		left: 0;
+	}
+
+	.hero-thumb {
+		margin-top: 40px;
+		margin-bottom: -30px;
+	}
+	
+	.why-choose-thumb {
+		margin-top: 70px;
+	}
+	.why-choose-content h3 {
+		font-size: 18px;
+	}
+	.about-text-wrapper {
+		padding: 0;
+		margin-top: 65px;
+	}
+
+	.tagline-text h2 {
+	font-size: 27px;
+	}
+	.tagline-text h2 {
+	font-size: 25px;
+	}
+	.doctor-btn{
+	float: none;
+	margin-top: 30px;
+	}
+	.doctor-content {
+	transform: translateY(318%);
+	}
+	.doctor-wrapper:hover .doctor-content {
+		transform: translateY(268%);
+	}
+	.appointment-area{
+		padding: 0;
+	}
+
+	.appointment-form {
+		padding: 15px;
+	}
+	
+	.testimonial-area .testimonial-content-area {
+		padding: 130px 0px;
+	}
+	.testimunial-content-area {
+	padding: 0;
+	margin-top: 80px;
+	}
+
+	.testimunial-author {
+	float: none;
+	margin-top: 40px;
+	}
+
+	.testimunial-content {
+	padding-left: 0;
+	margin-top: 25px;
+	}
+
+	.testimonial-area .testimonial-content h4 {
+		font-size: 18px;
+		line-height: 34px;
+	}
+	
+	.testimonial-active.owl-carousel .owl-dots {
+	bottom: 85px;
+	left: 0;
+	}
+	.appointment-area .appointment-form {
+		padding: 0 15px;
+	}
+	.testimunial-content {
+		margin-bottom: 140px;
+	}
+	.appointment-area .appointment-img img {
+		height: 400px;
+	}
+	.help-wrapper {
+	padding: 0;
+	}
+	.latest-blog-content {
+	transform: translateY(116%);
+	}
+	.latest-blog-content h4 {
+	font-size: 20px;
+	}
+	.cta-bg .btn.btn-white {
+		margin-bottom: 15px;
+	}
+
+	.help-thumb {
+	margin-top: 40px;
+}
+
+	.check-list {
+		margin-top: 30px;
+	}
+	.section-title h2 {
+		font-size: 28px;
+		line-height: 40px;
+	}
+
+	.header-area.header-two {
+		padding: 25px 0;
+	}
+
+	.slider-two-area .slider-height {
+		height: 650px;
+		padding: 0;
+	}
+
+	.slider-two-area .slider-btn {
+		margin-bottom: 0;
+	}
+
+	.slider-two-area .slider-content {
+		padding: 40px 30px;
+	}
+
+	.about-left-two {
+		right: -230px;
+	}
+
+	.about-left-two img {
+		width: 63%;
+	}
+
+	.about-left-three img {
+		width: 57%;
+	}
+
+	.cat-btn {
+		margin-top: 30px;
+	}
+
+	.cta-two a {
+		margin-top: 15px;
+	}
+
+	.counter-area.counter-two {
+		padding: 0;
+	}
+
+	.testimunial-two-content {
+		padding: 30px;
+	}
+
+	.appointment-area {
+		padding: 130px 0;
+	}
+
+	.testimonial-two-area {
+		padding-bottom: 130px;
+	}
+
+	.latest-blog-two-wrapper .latest-blog-two-content {
+		padding: 30px 15px;
+	}
+
+	.latest-blog-btn{
+		float: none;
+		margin-top: -30px;
+	}
+
+	.slider-three-area .slider-content h2 {
+		font-size: 50px;
+	}
+
+	.service-area.service-three {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.cat-wrapper {
+		padding: 60px 15px;
+	}
+	.about-three-btn {
+		right: 125px;
+		top: 100%;
+	}
+
+	.about-text-wrapper.about-three-wrapper {
+		padding-left: 0;
+		margin-top: 80px;
+	}
+
+	.testimunial-three-box {
+		padding: 40px 30px;
+	}
+
+	.testi-author-des h4 {
+		font-size: 20px;
+	}
+
+	.doctor-with-testimunial::before {
+		width: 100%;
+	}
+
+	.latest-blog-three-content h4 {
+		font-size: 18px;
+	}
+
+	.slider-two-area .slider-content {
+		padding: 0;
+	}
+
+	.why-choose-bg{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.about-four .about-text-wrapper.about-three-wrapper {
+		margin-top: 0;
+	}
+
+	.about-four .about-three-thumb {
+		margin-top: 60px;
+	}
+
+	.service-area.service-four {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.service-area.service-four {
+		padding-left: 0;
+		padding-right: 0;
+		padding-bottom: 1px;
+	}
+
+	.video-two-content {
+		padding: 0;
+		padding-left: 0;
+		margin-top: 60px;
+	}
+
+	.slider-height-three .slider-content h2 {
+		font-size: 40px;
+	}
+
+	.feature-two-area .feature-wrapper {
+		padding: 40px;
+	}
+
+	.feature-wrapper.feature-new-class {
+		margin-top: 60px;
+		padding: 40px;
+		margin-bottom: -30px;
+	}
+
+	.product-nav-button {
+		padding: 30px;
+	}
+	.product-nav-button button {
+		margin: 0 5px;
+		margin-bottom: 15px;
+	}
+
+	.feature-medicine-content {
+		padding: 0;
+		margin-top: 0;
+	}
+
+	.feature-medicine-thumb {
+		margin-top: 60px;
+	}
+
+	.feature-cta {
+		padding: 30px;
+	}
+
+	.product-area.gray-bg {
+		padding-top: 170px;
+	}
+
+	.faq-content {
+		padding-left: 0;
+		margin-top: 60px;
+	}
+
+	.page-title-area .page-title h2 {
+		font-size: 30px;
+	}
+
+	.blog-post-wrapper {
+		padding-right: 0;
+	}
+	
+	.post-content {
+		padding: 30px 15px;
+	}
+
+	.post-meta li {
+		margin-right: 15px;
+	}
+
+	.pagination ul li {
+		margin: 0 2px;
+	}
+	
+	.sidebar-widget-wrapper {
+		margin-top: 60px;
+	}
+
+	.single-post .blockquote {
+		padding: 20px;
+	}
+
+	.related-tag ul li {
+		margin-bottom: 20px;
+	}
+
+	.post-share{
+		float: none;
+		margin-top: 15px;
+	}
+	
+	
+	.post-share ul li {
+		margin-left: 0;
+	}
+
+	.post-athor-inner {
+		padding: 30px;
+	}
+
+	.navigation-thumb {
+		float: none;
+		margin-bottom: 15px;
+	}
+	.navigaion-content h5 {
+		margin-bottom: 8px;
+	}
+	.post-comment-replay {
+		margin-left: 0;
+	}
+
+	.comment-form .btn {
+		padding: 20px 75px;
+	}
+
+	.skill-wrapper {
+		padding-left: 0;
+		margin-top: 60px;
+	}
+	.doctor-content-wrapper {
+		padding: 15px;
+	}
+
+	.doctor-details-btn{
+		float: none;
+		margin: 15px 0;
+	}
+
+	.doctor-content-wrapper::before {
+		width: 100%;
+	}
+
+	.doctor-work-wrapper {
+		padding: 30px 15px;
+	}
+
+	.gellery-page button {
+		padding: 15px 20px;
+		margin-bottom: 15px;
+	}
+
+	.faq-search h3 {
+		font-size: 25px;
+	}
+
+	.product-details-nav .nav-link img {
+		width: 80%;
+	}
+
+	.product-details-nav .nav-link {
+		margin-right: -15px;
+	}
+
+	.product-summary {
+		padding-right: 0;
+		margin-top: 60px;
+	}
+	.product-comment-replay {
+		margin-left: 0;
+	}
+
+	.about-area.about-two.about-page-area {
+		padding-top: 0;
+	}
+
+	.about-two .about-text-wrapper.about-page {
+		padding: 0;
+		
+	}
+
+	.appointment-img {
+		margin-top: 60px;
+	}
+
+	.service-details-box {
+		padding-left: 0;
+		margin-top: 60px;
+	}
+
+	.service-sidebar {
+		padding: 30px;
+		background: #499afa;
+	}
+
+	.service-sidebar.service-sidebar-two {
+		padding: 30px;
+	}
+
+	.shop-filter {
+		float: none;
+		margin-top: 15px;
+	}
+
+
+
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+	
+}
+
+
